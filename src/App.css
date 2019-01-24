@@ -1,0 +1,35 @@
+.guidence-comp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3498db;
+  height: 80px;
+}
+
+#tab-links {
+  display: inline-block;
+}
+
+#navbar-lists .list-group-item {
+  background-color: #343a40;
+  color: #fff;
+}
+
+#collapse .navbar.ml-auto {
+  display: flex;
+  justify-content: center;
+}
+
+.login-head span {
+  font-size: 14px;
+  color: #3498db;
+  float: right;
+  line-height: 2.8;
+}
+
+.forget-pass {
+  font-size: 14px;
+  color: #3498db;
+  float: right;
+  line-height: 2.8;
+}
